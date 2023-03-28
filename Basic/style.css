@@ -40,7 +40,7 @@ main
 {
     width: 700px;
     margin: auto;
-    background-color: rgb(235, 238, 236);
+    background-color: rgba(249, 251, 255, 0.675);
 }
 .card_grid
 {
@@ -53,7 +53,6 @@ justify-items: center;
 }
 .card
 {
-    background-color: rgb(255, 254, 251);
     width: 100%;
 }
 .card .card_img
